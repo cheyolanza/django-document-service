@@ -43,5 +43,5 @@ services:
       - DB_NAME=db
       - DB_USER=postgres
       - DB_PASSWORD=password
-      - DB_HOST=django-document-service-db
+      - DB_HOST=postgres
       - DB_PORT=5432
