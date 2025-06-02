@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.venv/
+.python-version
+db.sqlite3
+media/
+.pgdata/
+.pgadmin/
